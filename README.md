@@ -7,12 +7,6 @@
 This project analyzes coffee shop sales data to uncover insights into sales trends, customer behavior, and product performance. The analysis involves extracting, aggregating, and visualizing data to identify key patterns and actionable insights. I used MySQL to write queries that structured and aggregated the data, which was then imported into Power BI for visualization. This project highlights essential KPIs such as sales growth, top-selling products, customer purchasing patterns, and overall sales performance across different time periods.
 
 ---
-![Final Dashboard](media/Home.png)
----
-![Tooltips for daily sales](media/Tooltip%201.png)
----
-![Tooltips for weekly/hourly sales](media/Tooltip%202.png)
-
 
 ## Tools I Used
 
@@ -46,4 +40,10 @@ After importing the data into Power BI via the MySQL server load data option, I 
 This analysis provides valuable insights that can help optimize sales strategies and improve customer engagement. By tracking monthly trends and performing in-depth analysis on product sales and ordering patterns, stakeholders can make informed decisions that directly impact revenue growth and customer satisfaction.
 
 ---
+
+![Final Dashboard](media/Home.png)
+---
+![Tooltips for daily sales](media/Tooltip%201.png)
+---
+![Tooltips for weekly/hourly sales](media/Tooltip%202.png)
 
