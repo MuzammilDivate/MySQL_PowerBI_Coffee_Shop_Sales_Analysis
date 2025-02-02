@@ -2,6 +2,10 @@
 
 
 
+https://github.com/user-attachments/assets/bff0e838-fb37-401e-8b3a-729a305a07b7
+
+
+
 ## Overview
 
 This project analyzes coffee shop sales data to uncover insights into sales trends, customer behavior, and product performance. The analysis involves extracting, aggregating, and visualizing data to identify key patterns and actionable insights. I used MySQL to write queries that structured and aggregated the data, which was then imported into Power BI for visualization. This project highlights essential KPIs such as sales growth, top-selling products, customer purchasing patterns, and overall sales performance across different time periods.
